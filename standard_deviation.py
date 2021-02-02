@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 12 15:32:57 2018
 
-@author: nikhil
-"""
 
 file = open('../bacterial_result.txt', 'r+')
 content = file.read()
