@@ -1,11 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-@author: nikhil
-This is the first program of overall experimentation.
-This program calculated average infection percentage of a set of leaf images of specific type. 
-It uses modified version of Otsu's threshold method for healthy region segmentation and Iterative Selection (IS) algorithm for segregating leaf from background of image.
-It requires a set of images. The user need to put all images in the folder and put the code in the folder.
-Also create a text file with name 'disease_result.txt', where all the results will be stored.
+
 
 """
 import cv2
